@@ -1,7 +1,7 @@
 # Hi, I'm Marcin 👋
 
 Data Engineering student at **Rzeszów University of Technology** and **Automation & AI Intern at Asseco Poland**.
-I build AI agents with tool calling, RAG systems and data pipelines in Apache Airflow, and I'm especially interested in applying data and machine learning to financial markets.
+I build AI agents with tool calling, RAG systems and Apache Airflow pipelines that automate internal business processes – from document search and data retrieval to end-to-end workflow automation. I enjoy turning messy, manual processes into reliable data-driven solutions, and I also apply data and machine learning to financial markets.
 
 ## Projects
 
@@ -15,10 +15,10 @@ I build AI agents with tool calling, RAG systems and data pipelines in Apache Ai
 
 ## Tech stack
 
-**Languages:** Python · R · SQL (Oracle)
-**Data engineering:** Apache Airflow · Docker · ETL/ELT pipelines
-**AI & ML:** AI agents · tool calling · RAG · scikit-learn · XGBoost · LightGBM
-**Analysis:** statistics · econometrics · time series · Bayesian networks
+- **Languages:** Python · R · SQL (Oracle)
+- **Data engineering:** Apache Airflow · Docker · ETL/ELT pipelines
+- **AI & ML:** AI agents · tool calling · RAG · scikit-learn · XGBoost · LightGBM
+- **Analysis:** statistics · econometrics · time series · Bayesian networks
 
 ## Contact
 
